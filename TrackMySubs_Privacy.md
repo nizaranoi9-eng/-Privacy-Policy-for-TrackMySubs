@@ -45,7 +45,7 @@ We care about safeguarding your data. Because your data is stored locally:
 
 ## 5. Children's Privacy
 
-Our App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+Our App is not intended for use by children under the age of 18. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
 ---
 
